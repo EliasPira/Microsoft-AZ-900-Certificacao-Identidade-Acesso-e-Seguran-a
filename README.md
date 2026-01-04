@@ -174,7 +174,7 @@ Serviço de proteção e monitoramento que oferece:
 ### Artigos e Comunidade
 - DIO Artigos: https://web.dio.me/articles
 
-### Sugestões de aprofundamento
+### Enriquecimento do conteúdo
 - Cursos da DIO sobre Azure  
 - Documentação oficial do Microsoft Entra  
 - Livros sobre Zero Trust e IAM  
